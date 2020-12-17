@@ -1,0 +1,20 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "wdio"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@wdio/local-runner": "^6.10.11",
+    "@wdio/sync": "^6.10.11"
+  },
+  "devDependencies": {
+    "@wdio/cli": "^6.10.11",
+    "@wdio/mocha-framework": "^6.10.11"
+  }
+}
